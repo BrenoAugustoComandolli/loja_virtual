@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507053961800",
+    "project_id": "lojaflutter-8d087",
+    "storage_bucket": "lojaflutter-8d087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507053961800:android:0265b989bf23da50635e7d",
+        "android_client_info": {
+          "package_name": "br.com.comandolli.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507053961800-8vrbpeckeej1ulh0uc16ouiauifsasdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR127exwAVVEiV8M154p27Bzd4DwOstc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507053961800-8vrbpeckeej1ulh0uc16ouiauifsasdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
